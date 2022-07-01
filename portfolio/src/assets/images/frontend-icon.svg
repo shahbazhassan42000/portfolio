@@ -1,0 +1,19 @@
+<svg width="140" height="140" viewBox="0 0 140 140" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="70" cy="70" r="70" fill="url(#paint0_linear_316_5)"/>
+<rect x="37.5" y="43.5" width="65" height="53" rx="7.5" stroke="#CAEBEB" stroke-width="5"/>
+<line x1="40" y1="60.5" x2="100" y2="60.5" stroke="#CAEBEB" stroke-width="5"/>
+<circle cx="46" cy="52" r="3" fill="#CAEBEB"/>
+<circle cx="55" cy="52" r="3" fill="#CAEBEB"/>
+<circle cx="64" cy="52" r="3" fill="#CAEBEB"/>
+<line y1="-1.5" x2="7.77776" y2="-1.5" transform="matrix(-0.8 0.599999 -0.714359 -0.699779 73.2223 75.3333)" stroke="#CAEBEB" stroke-width="3"/>
+<line y1="-1.5" x2="8.64383" y2="-1.5" transform="matrix(0.719845 0.694135 -0.795432 0.606043 67 79.9999)" stroke="#CAEBEB" stroke-width="3"/>
+<line y1="-1.5" x2="7.77776" y2="-1.5" transform="matrix(0.8 -0.599999 0.714359 0.699779 88.7777 88.6665)" stroke="#CAEBEB" stroke-width="3"/>
+<line y1="-1.5" x2="8.64383" y2="-1.5" transform="matrix(-0.719845 -0.694135 0.795432 -0.606043 95 83.9999)" stroke="#CAEBEB" stroke-width="3"/>
+<line y1="-1.5" x2="22.0705" y2="-1.5" transform="matrix(-0.422886 0.906183 -0.945946 -0.324324 85.6667 70)" stroke="#CAEBEB" stroke-width="3"/>
+<defs>
+<linearGradient id="paint0_linear_316_5" x1="70" y1="0" x2="70" y2="140" gradientUnits="userSpaceOnUse">
+<stop stop-color="#38ADAE"/>
+<stop offset="1" stop-color="#F18CAA"/>
+</linearGradient>
+</defs>
+</svg>
