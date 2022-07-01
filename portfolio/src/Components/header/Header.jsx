@@ -4,7 +4,7 @@ import leaves from '../../assets/images/hero-design.svg'
 
 const Header = () => (
     <div className="relative px-32 flex flex-col h-[100vh]">
-        {<Nav/>}
+        <Nav/>
         <div className="headerBox absolute top-0 left-0 h-[100vh] w-[70%] -z-10">
             <img className="relative left-[82%] top-[40vh] h-[380px]" src={leaves} alt={'leaves picture'}/>
         </div>

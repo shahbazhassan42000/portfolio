@@ -20,11 +20,17 @@ code {
     background: linear-gradient(166.97deg, #38ADAE 8.59%, #6BA4AD 35.48%, #80A0AC 46.64%, #8D9EAC 53.24%, #F18CAA 106.01%);
 
 }
-.title:before{
+
+.title:before {
     content: "";
-    margin:0 0.5em;
-    display:inline-block;
+    margin: 0 0.5em;
+    display: inline-block;
     border: 7px solid transparent;
-    border-top:8px solid #B42D55;
-    border-bottom:0 none;
+    border-top: 8px solid #B42D55;
+    border-bottom: 0 none;
+}
+
+.footer {
+    background: linear-gradient(154.13deg, #F18CAA -1.22%, #108A8B 93.17%);
+
 }

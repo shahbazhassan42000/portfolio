@@ -1,18 +1,18 @@
 import './App.css';
 import Header from "./Components/header/Header";
 import Skill from "./Components/skill/Skill";
+import Project from "./Components/project/Project";
+import About from "./Components/about/About";
+import Footer from "./Components/footer/Footer";
 
 function App() {
     return (
         <>
             <Header/>
-            <Skill />
-            <h1>1</h1>
-            <h1>1</h1>
-            <h1>1</h1>
-            <h1>1</h1>
-            <h1>1</h1>
-            <h1>1</h1>
+            <Skill/>
+            <Project/>
+            <About/>
+            <Footer/>
         </>
     );
 }
