@@ -25,9 +25,14 @@ code {
     content: "";
     margin: 0 0.5em;
     display: inline-block;
-    border: 7px solid transparent;
-    border-top: 8px solid #B42D55;
+    border: 0.7rem solid transparent;
+    border-top: 0.7rem solid #B42D55;
     border-bottom: 0 none;
+}
+@media screen and (max-width: 620px) {
+    .title:before {
+        border-width: 0.5rem;
+    }
 }
 
 .footer {
