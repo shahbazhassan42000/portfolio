@@ -12,8 +12,8 @@ function App() {
             <Header/>
             <Skill/>
             <Project/>
-            {/*<About/>*/}
-            {/*<Footer/>*/}
+            <About/>
+            <Footer/>
         </ViewportProvider>
     );
 }
