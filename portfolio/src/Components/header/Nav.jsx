@@ -1,7 +1,6 @@
 import upwork from '../../assets/images/upwork.svg';
 import linkedin from '../../assets/images/linkedin-icon.svg';
 import logo from '../../assets/images/LOGO.svg'
-import IsMobile from "../../ViewportContext";
 
 const nav = () =>{
     return (

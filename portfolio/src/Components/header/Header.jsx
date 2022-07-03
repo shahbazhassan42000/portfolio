@@ -1,8 +1,6 @@
 import Nav from "./Nav";
 import scroll from '../../assets/images/scroll.svg'
 import leaves from '../../assets/images/hero-design.svg'
-import IsMobile from "../../ViewportContext";
-
 
 const Header = () => {
 
