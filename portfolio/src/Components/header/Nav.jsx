@@ -4,7 +4,7 @@ import logo from '../../assets/images/LOGO.svg'
 
 const nav = () =>{
     return (
-        <div className="flex flex-initial justify-evenly sm:justify-between my-[4%] sm:w-full sm:mx-auto">
+        <div className="flex flex-initial  justify-evenly sm:justify-between my-[4%] sm:w-full sm:mx-auto">
             <a className="" href="#root"><img className="w-[30px] h-[21px] sm:h-[31px] sm:w-[49px]" src={logo} alt="Logo"/></a>
             <div className="flex space-x-[1rem] sm:space-x-[5rem] sm:text-[1.3rem] text-white">
                 <a href="#about" className="">About</a>
